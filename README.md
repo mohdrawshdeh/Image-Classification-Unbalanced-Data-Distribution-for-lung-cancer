@@ -1,4 +1,4 @@
-# Image-Classification-Unbalanced-Data-Distribution-for-lung-cancer
+# Image-Classification-with-Unbalanced-Data-Distribution-for-lung-cancer
 In this project, we aimed to address the issue of data imbalance in cancer detection using deep neural networks for image classification.
 
 Dataset: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
